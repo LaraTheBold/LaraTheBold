@@ -8,6 +8,8 @@ I’m currently learning Boldness by proceeding the first steps in Computer Scie
 
 You can contact me anytime: LaraTheBold@gmail.com
 
+Much love to all the GitHub Fellows out there!
+
 <!---
 LaraTheBold/LaraTheBold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
